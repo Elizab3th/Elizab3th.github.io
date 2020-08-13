@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Elizabeth Ovalle Oróstegui</title>
+</head>
+<body>
+    <div>
+    <hi>ELIZABETH YANIS OVALLE OROSTEGUI</hi>
+    <p>Av Carlos Diaz #190,Los Andes</p>
+    <P>Email: elizabethovalle14@gmail.com</P>
+    <fieldset>
+        <legend>Objetivo
+            Inicialmente obtener experiencia laboral especificamnte y en el rubro como tal. Obtener y ser capáz de desarrollar habilidades
+             para fortalecer mi desempeño y eficacia como profesional.</legend>
+        <ul>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ul>
+    </fieldset>
+    <fieldset>
+        <legend>Educación</legend>
+        <ul>
+            <li>ENSEÑANZA BÁSICA:Escuela Básica El Sauce, Los Andes</li>
+            <li>ENSEÑANZA MEDIA:Liceo Comercial de Los Andes</li>
+            <li>CURSO DE COMPUTACIÒN:Liceo politécnico América Los Andes </li>
+            <li>TALLER DE ROBÓTICA:Instituto AIEP San Felipe </li>
+            <li>ENSEÑANZA SUPERIOR 2018:Universidad Técnica Federico Santa María
+                Proyectos de Ingeniería (congelada)</li>
+        </ul>
+    </fieldset>
+    </div>
+</body>
+</html>
+
